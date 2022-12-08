@@ -1,0 +1,61 @@
+musicians = [{
+	'name': 'Jaskier (Dandelion)',
+	'gender': 'male',
+	'band': None,
+	'role': 'vocals, violin',
+	'is_real': False,
+}, {
+	'name': 'Ian "Lemmy" Kilmister',
+	'gender': 'male',
+	'band': 'Motorhead',
+	'role': 'vocals, bass',
+	'is_real': True,
+}, {
+	'name': 'Phil "Wizzö" Campbell',
+	'gender': 'male',
+	'band': 'Motorhead',
+	'role': 'guitar',
+	'is_real': True,
+}, {
+	'name': 'Mikkey Dee',
+	'gender': 'male',
+	'band': 'Motorhead',
+	'role': 'drums',
+	'is_real': True,
+}, {
+	'name': 'David Gilmour',
+	'gender': 'male',
+	'band': 'Pink Floyd',
+	'role': 'vocals, bass, guitars',
+	'is_real': True,
+}, {
+	'name': 'Tarja Turunen',
+	'gender': 'female',
+	'band': 'Nightwish',
+	'role': 'vocals',
+	'is_real': True,
+}, {
+	'name': 'Richard Wright',
+	'gender': 'male',
+	'band': 'Pink Floyd',
+	'role': 'keyboard, piano, vocals',
+	'is_real': True,
+}, {
+	'name': 'Nick Mason',
+	'gender': 'male',
+	'band': 'Pink Floyd',
+	'role': 'drums, vocals',
+	'is_real': True,
+}, {
+	'name': 'Janis Joplin',
+	'gender': 'female',
+	'band': None,
+	'role': 'vocals, guitar',
+	'is_real': True,
+}, {
+	'name': 'Debbie Harry',
+	'gender': 'female',
+	'band': 'Blondie',
+	'role': 'vocals',
+	'is_real': True,
+}]
